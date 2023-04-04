@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "date-holidays": "^3.19.0"
+    },
+    "scripts": {
+        "build": "holidays2json --pick VN --min"
+    }
+}
